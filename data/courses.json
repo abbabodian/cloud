@@ -1,0 +1,1481 @@
+[
+  {
+    "cours_id": "COURS-001",
+    "id_original_coursera": 43,
+    "titre": "AWS Fundamentals",
+    "organisation": "Amazon Web Services",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cloud AWS",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 72,
+    "etudiants_inscrits": 130000,
+    "prerequis": [],
+    "tags": [
+      "Cloud AWS",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "cours_id": "COURS-002",
+    "id_original_coursera": 631,
+    "titre": "AWS Fundamentals: Addressing Security Risk",
+    "organisation": "Amazon Web Services",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud AWS",
+    "niveau": "Beginner",
+    "rating": 4.3,
+    "duree_heures": 18,
+    "etudiants_inscrits": 11000,
+    "prerequis": [],
+    "tags": [
+      "Cloud AWS",
+      "Cloud Computing",
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-003",
+    "id_original_coursera": 861,
+    "titre": "AWS Fundamentals: Building Serverless Applications",
+    "organisation": "Amazon Web Services",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud AWS",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 27000,
+    "prerequis": [],
+    "tags": [
+      "Cloud AWS",
+      "Cloud Computing",
+      "Serverless"
+    ]
+  },
+  {
+    "cours_id": "COURS-004",
+    "id_original_coursera": 281,
+    "titre": "AWS Fundamentals: Going Cloud-Native",
+    "organisation": "Amazon Web Services",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud AWS",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 110000,
+    "prerequis": [],
+    "tags": [
+      "Cloud AWS",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "cours_id": "COURS-005",
+    "id_original_coursera": 828,
+    "titre": "AWS Fundamentals: Migrating to the Cloud",
+    "organisation": "Amazon Web Services",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud AWS",
+    "niveau": "Intermediate",
+    "rating": 4.5,
+    "duree_heures": 22,
+    "etudiants_inscrits": 13000,
+    "prerequis": [
+      "Basic IT knowledge"
+    ],
+    "tags": [
+      "Cloud AWS",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "cours_id": "COURS-006",
+    "id_original_coursera": 568,
+    "titre": "Getting Started with AWS Machine Learning",
+    "organisation": "Amazon Web Services",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud AWS",
+    "niveau": "Intermediate",
+    "rating": 4.5,
+    "duree_heures": 22,
+    "etudiants_inscrits": 73000,
+    "prerequis": [
+      "Basic IT knowledge",
+      "Python",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Cloud AWS",
+      "Cloud Computing",
+      "Machine Learning"
+    ]
+  },
+  {
+    "cours_id": "COURS-007",
+    "id_original_coursera": 349,
+    "titre": "Cloud Computing",
+    "organisation": "University of Illinois at Urbana-Champaign",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cloud Computing",
+    "niveau": "Intermediate",
+    "rating": 4.4,
+    "duree_heures": 88,
+    "etudiants_inscrits": 110000,
+    "prerequis": [
+      "Basic IT knowledge"
+    ],
+    "tags": [
+      "Cloud Computing"
+    ]
+  },
+  {
+    "cours_id": "COURS-008",
+    "id_original_coursera": 777,
+    "titre": "Cloud Computing Basics (Cloud 101)",
+    "organisation": "LearnQuest",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud Computing",
+    "niveau": "Beginner",
+    "rating": 4.5,
+    "duree_heures": 18,
+    "etudiants_inscrits": 37000,
+    "prerequis": [],
+    "tags": [
+      "Cloud Computing"
+    ]
+  },
+  {
+    "cours_id": "COURS-009",
+    "id_original_coursera": 594,
+    "titre": "Introduction to Cloud Computing",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud Computing",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 2600,
+    "prerequis": [],
+    "tags": [
+      "Cloud Computing"
+    ]
+  },
+  {
+    "cours_id": "COURS-010",
+    "id_original_coursera": 179,
+    "titre": "Crash Course on Python",
+    "organisation": "Google",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 18,
+    "etudiants_inscrits": 81000,
+    "prerequis": [],
+    "tags": [
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-011",
+    "id_original_coursera": 47,
+    "titre": "Programming for Everybody (Getting Started with Python)",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.8,
+    "duree_heures": 20,
+    "etudiants_inscrits": 1300000,
+    "prerequis": [],
+    "tags": [
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-012",
+    "id_original_coursera": 3,
+    "titre": "Python for Everybody",
+    "organisation": "University of Michigan",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Python",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 72,
+    "etudiants_inscrits": 1500000,
+    "prerequis": [],
+    "tags": [
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-013",
+    "id_original_coursera": 279,
+    "titre": "Python Basics",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 18,
+    "etudiants_inscrits": 110000,
+    "prerequis": [],
+    "tags": [
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-014",
+    "id_original_coursera": 111,
+    "titre": "Python Data Structures",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.9,
+    "duree_heures": 20,
+    "etudiants_inscrits": 420000,
+    "prerequis": [],
+    "tags": [
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-015",
+    "id_original_coursera": 152,
+    "titre": "Python for Data Science and AI",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 170000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-016",
+    "id_original_coursera": 25,
+    "titre": "Google IT Automation with Python",
+    "organisation": "Google",
+    "type_certificat": "PROFESSIONAL CERTIFICATE",
+    "categorie": "Python",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 108,
+    "etudiants_inscrits": 93000,
+    "prerequis": [],
+    "tags": [
+      "Automation",
+      "DevOps",
+      "IT Support",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-017",
+    "id_original_coursera": 0,
+    "titre": "IBM Data Science",
+    "organisation": "IBM",
+    "type_certificat": "PROFESSIONAL CERTIFICATE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 108,
+    "etudiants_inscrits": 480000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-018",
+    "id_original_coursera": 1,
+    "titre": "Introduction to Data Science",
+    "organisation": "IBM",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 72,
+    "etudiants_inscrits": 310000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-019",
+    "id_original_coursera": 13,
+    "titre": "Data Science",
+    "organisation": "Johns Hopkins University",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.5,
+    "duree_heures": 72,
+    "etudiants_inscrits": 830000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-020",
+    "id_original_coursera": 88,
+    "titre": "What is Data Science?",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 260000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-021",
+    "id_original_coursera": 198,
+    "titre": "Data Science Methodology",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 89000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-022",
+    "id_original_coursera": 146,
+    "titre": "Tools for Data Science",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 120000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-023",
+    "id_original_coursera": 399,
+    "titre": "Data Science Math Skills",
+    "organisation": "Duke University",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.5,
+    "duree_heures": 18,
+    "etudiants_inscrits": 140000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "cours_id": "COURS-024",
+    "id_original_coursera": 8,
+    "titre": "Applied Data Science",
+    "organisation": "IBM",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 72,
+    "etudiants_inscrits": 220000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-025",
+    "id_original_coursera": 26,
+    "titre": "Applied Data Science with Python",
+    "organisation": "University of Michigan",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.5,
+    "duree_heures": 88,
+    "etudiants_inscrits": 480000,
+    "prerequis": [
+      "Python basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-026",
+    "id_original_coursera": 277,
+    "titre": "Data Analysis with Python",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 110000,
+    "prerequis": [],
+    "tags": [
+      "Data Analysis",
+      "Data Science",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-027",
+    "id_original_coursera": 157,
+    "titre": "Advanced Data Science with IBM",
+    "organisation": "IBM",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Data Science",
+    "niveau": "Advanced",
+    "rating": 4.4,
+    "duree_heures": 104,
+    "etudiants_inscrits": 320000,
+    "prerequis": [
+      "Python basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "Analytics",
+      "Data Science"
+    ]
+  },
+  {
+    "cours_id": "COURS-028",
+    "id_original_coursera": 187,
+    "titre": "Introduction to Data Science in Python",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.5,
+    "duree_heures": 22,
+    "etudiants_inscrits": 390000,
+    "prerequis": [
+      "Python basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-029",
+    "id_original_coursera": 420,
+    "titre": "Data Visualization with Python",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 22,
+    "etudiants_inscrits": 66000,
+    "prerequis": [
+      "Basic data analysis"
+    ],
+    "tags": [
+      "Analytics",
+      "Data Visualization",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-030",
+    "id_original_coursera": 686,
+    "titre": "Data Visualization and Communication with Tableau",
+    "organisation": "Duke University",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 20,
+    "etudiants_inscrits": 130000,
+    "prerequis": [
+      "Basic data analysis"
+    ],
+    "tags": [
+      "Analytics",
+      "Data Visualization",
+      "Tableau"
+    ]
+  },
+  {
+    "cours_id": "COURS-031",
+    "id_original_coursera": 6,
+    "titre": "Machine Learning",
+    "organisation": "Stanford University",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.9,
+    "duree_heures": 20,
+    "etudiants_inscrits": 3200000,
+    "prerequis": [
+      "Python",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  {
+    "cours_id": "COURS-032",
+    "id_original_coursera": 321,
+    "titre": "Machine Learning with Python",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 22,
+    "etudiants_inscrits": 120000,
+    "prerequis": [
+      "Python",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-033",
+    "id_original_coursera": 630,
+    "titre": "Applied Machine Learning in Python",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Python",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 22,
+    "etudiants_inscrits": 150000,
+    "prerequis": [
+      "Python",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "cours_id": "COURS-034",
+    "id_original_coursera": 585,
+    "titre": "Machine Learning for All",
+    "organisation": "University of London",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 19000,
+    "prerequis": [],
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  {
+    "cours_id": "COURS-035",
+    "id_original_coursera": 189,
+    "titre": "Structuring Machine Learning Projects",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 18,
+    "etudiants_inscrits": 220000,
+    "prerequis": [],
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  {
+    "cours_id": "COURS-036",
+    "id_original_coursera": 125,
+    "titre": "Machine Learning with TensorFlow on Google Cloud Platform",
+    "organisation": "Google Cloud",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cloud Computing",
+    "niveau": "Intermediate",
+    "rating": 4.5,
+    "duree_heures": 88,
+    "etudiants_inscrits": 72000,
+    "prerequis": [
+      "Basic IT knowledge",
+      "Python",
+      "Machine Learning basics"
+    ],
+    "tags": [
+      "AI",
+      "Cloud Computing",
+      "Deep Learning",
+      "Machine Learning",
+      "TensorFlow"
+    ]
+  },
+  {
+    "cours_id": "COURS-037",
+    "id_original_coursera": 5,
+    "titre": "Deep Learning",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.8,
+    "duree_heures": 88,
+    "etudiants_inscrits": 690000,
+    "prerequis": [
+      "Python",
+      "Machine Learning basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  {
+    "cours_id": "COURS-038",
+    "id_original_coursera": 62,
+    "titre": "Neural Networks and Deep Learning",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.9,
+    "duree_heures": 22,
+    "etudiants_inscrits": 630000,
+    "prerequis": [
+      "Python",
+      "Machine Learning basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks"
+    ]
+  },
+  {
+    "cours_id": "COURS-039",
+    "id_original_coursera": 207,
+    "titre": "Convolutional Neural Networks",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.9,
+    "duree_heures": 22,
+    "etudiants_inscrits": 240000,
+    "prerequis": [
+      "Python",
+      "Deep Learning basics",
+      "Machine Learning basics"
+    ],
+    "tags": [
+      "AI",
+      "Computer Vision",
+      "Deep Learning",
+      "Neural Networks"
+    ]
+  },
+  {
+    "cours_id": "COURS-040",
+    "id_original_coursera": 285,
+    "titre": "Sequence Models",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "General Tech",
+    "niveau": "Intermediate",
+    "rating": 4.8,
+    "duree_heures": 22,
+    "etudiants_inscrits": 14000,
+    "prerequis": [
+      "Python",
+      "Machine Learning basics"
+    ],
+    "tags": [
+      "Deep Learning",
+      "NLP"
+    ]
+  },
+  {
+    "cours_id": "COURS-041",
+    "id_original_coursera": 123,
+    "titre": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Beginner",
+    "rating": 4.9,
+    "duree_heures": 18,
+    "etudiants_inscrits": 270000,
+    "prerequis": [],
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks"
+    ]
+  },
+  {
+    "cours_id": "COURS-042",
+    "id_original_coursera": 54,
+    "titre": "AI For Everyone",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "AI",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 18,
+    "etudiants_inscrits": 350000,
+    "prerequis": [],
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "cours_id": "COURS-043",
+    "id_original_coursera": 58,
+    "titre": "AI Foundations for Everyone",
+    "organisation": "IBM",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "AI",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 72,
+    "etudiants_inscrits": 61000,
+    "prerequis": [],
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "cours_id": "COURS-044",
+    "id_original_coursera": 427,
+    "titre": "Introduction to Artificial Intelligence (AI)",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "AI",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 44000,
+    "prerequis": [],
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "cours_id": "COURS-045",
+    "id_original_coursera": 230,
+    "titre": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 22,
+    "etudiants_inscrits": 150000,
+    "prerequis": [
+      "Python",
+      "Machine Learning basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Machine Learning",
+      "TensorFlow"
+    ]
+  },
+  {
+    "cours_id": "COURS-046",
+    "id_original_coursera": 27,
+    "titre": "TensorFlow in Practice",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 88,
+    "etudiants_inscrits": 170000,
+    "prerequis": [
+      "Python",
+      "Machine Learning basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Machine Learning",
+      "TensorFlow"
+    ]
+  },
+  {
+    "cours_id": "COURS-047",
+    "id_original_coursera": 431,
+    "titre": "Natural Language Processing in TensorFlow",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 22,
+    "etudiants_inscrits": 40000,
+    "prerequis": [
+      "Python",
+      "Machine Learning basics",
+      "Basic Statistics"
+    ],
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ]
+  },
+  {
+    "cours_id": "COURS-048",
+    "id_original_coursera": 358,
+    "titre": "Convolutional Neural Networks in TensorFlow",
+    "organisation": "deeplearning.ai",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 22,
+    "etudiants_inscrits": 46000,
+    "prerequis": [
+      "Python",
+      "Deep Learning basics",
+      "Machine Learning basics"
+    ],
+    "tags": [
+      "AI",
+      "Computer Vision",
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks",
+      "TensorFlow"
+    ]
+  },
+  {
+    "cours_id": "COURS-049",
+    "id_original_coursera": 134,
+    "titre": "(ISC)2 Systems Security Certified Practitioner (SSCP)",
+    "organisation": "(ISC)2",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cybersecurity",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 72,
+    "etudiants_inscrits": 5300,
+    "prerequis": [],
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-050",
+    "id_original_coursera": 372,
+    "titre": "Cybersecurity",
+    "organisation": "University of Maryland, College Park",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cybersecurity",
+    "niveau": "Intermediate",
+    "rating": 4.5,
+    "duree_heures": 88,
+    "etudiants_inscrits": 99000,
+    "prerequis": [
+      "Basic networking"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-051",
+    "id_original_coursera": 183,
+    "titre": "Introduction to Cyber Security",
+    "organisation": "New York University",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cybersecurity",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 72,
+    "etudiants_inscrits": 32000,
+    "prerequis": [],
+    "tags": [
+      "Cybersecurity",
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-052",
+    "id_original_coursera": 469,
+    "titre": "Introduction to Cybersecurity Tools and Cyber Attacks",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Cybersecurity",
+    "niveau": "Beginner",
+    "rating": 4.5,
+    "duree_heures": 18,
+    "etudiants_inscrits": 30000,
+    "prerequis": [],
+    "tags": [
+      "Cybersecurity",
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-053",
+    "id_original_coursera": 497,
+    "titre": "Cybersecurity for Business",
+    "organisation": "University of Colorado System",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cybersecurity",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 72,
+    "etudiants_inscrits": 23000,
+    "prerequis": [],
+    "tags": [
+      "Cybersecurity",
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-054",
+    "id_original_coursera": 526,
+    "titre": "Palo Alto Networks Cybersecurity",
+    "organisation": "Palo Alto Networks",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Cybersecurity",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 72,
+    "etudiants_inscrits": 9100,
+    "prerequis": [],
+    "tags": [
+      "Cybersecurity",
+      "Security"
+    ]
+  },
+  {
+    "cours_id": "COURS-055",
+    "id_original_coursera": 612,
+    "titre": "Access Controls",
+    "organisation": "(ISC)2",
+    "type_certificat": "COURSE",
+    "categorie": "General Tech",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 2900,
+    "prerequis": [],
+    "tags": [
+      "General Tech"
+    ]
+  },
+  {
+    "cours_id": "COURS-056",
+    "id_original_coursera": 329,
+    "titre": "HTML, CSS, and Javascript for Web Developers",
+    "organisation": "Johns Hopkins University",
+    "type_certificat": "COURSE",
+    "categorie": "Web Development",
+    "niveau": "Intermediate",
+    "rating": 4.8,
+    "duree_heures": 20,
+    "etudiants_inscrits": 240000,
+    "prerequis": [
+      "HTML/CSS basics"
+    ],
+    "tags": [
+      "HTML/CSS",
+      "JavaScript",
+      "Web Development"
+    ]
+  },
+  {
+    "cours_id": "COURS-057",
+    "id_original_coursera": 307,
+    "titre": "Introduction to HTML5",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Web Development",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 20,
+    "etudiants_inscrits": 220000,
+    "prerequis": [
+      "HTML/CSS basics"
+    ],
+    "tags": [
+      "HTML/CSS",
+      "Web Development"
+    ]
+  },
+  {
+    "cours_id": "COURS-058",
+    "id_original_coursera": 664,
+    "titre": "Introduction to CSS3",
+    "organisation": "University of Michigan",
+    "type_certificat": "COURSE",
+    "categorie": "Web Development",
+    "niveau": "Intermediate",
+    "rating": 4.8,
+    "duree_heures": 20,
+    "etudiants_inscrits": 84000,
+    "prerequis": [
+      "HTML/CSS basics"
+    ],
+    "tags": [
+      "HTML/CSS",
+      "Web Development"
+    ]
+  },
+  {
+    "cours_id": "COURS-059",
+    "id_original_coursera": 89,
+    "titre": "Full-Stack Web Development with React",
+    "organisation": "The Hong Kong University of Science and Technology",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Web Development",
+    "niveau": "Intermediate",
+    "rating": 4.7,
+    "duree_heures": 88,
+    "etudiants_inscrits": 150000,
+    "prerequis": [
+      "HTML/CSS",
+      "JavaScript",
+      "JavaScript basics"
+    ],
+    "tags": [
+      "Full-Stack",
+      "JavaScript",
+      "React",
+      "Web Development"
+    ]
+  },
+  {
+    "cours_id": "COURS-060",
+    "id_original_coursera": 625,
+    "titre": "Introduction to Web Development",
+    "organisation": "University of California, Davis",
+    "type_certificat": "COURSE",
+    "categorie": "Web Development",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 76000,
+    "prerequis": [],
+    "tags": [
+      "Web Development"
+    ]
+  },
+  {
+    "cours_id": "COURS-061",
+    "id_original_coursera": 263,
+    "titre": "Databases and SQL for Data Science",
+    "organisation": "IBM",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 110000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Database",
+      "SQL"
+    ]
+  },
+  {
+    "cours_id": "COURS-062",
+    "id_original_coursera": 332,
+    "titre": "SQL for Data Science",
+    "organisation": "University of California, Davis",
+    "type_certificat": "COURSE",
+    "categorie": "Data Science",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 160000,
+    "prerequis": [],
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Database",
+      "SQL"
+    ]
+  },
+  {
+    "cours_id": "COURS-063",
+    "id_original_coursera": 448,
+    "titre": "Continuous Delivery and DevOps",
+    "organisation": "University of Virginia",
+    "type_certificat": "COURSE",
+    "categorie": "DevOps",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 26000,
+    "prerequis": [],
+    "tags": [
+      "CI/CD",
+      "DevOps"
+    ]
+  },
+  {
+    "cours_id": "COURS-064",
+    "id_original_coursera": 75,
+    "titre": "Agile Development",
+    "organisation": "University of Virginia",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "DevOps",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 72,
+    "etudiants_inscrits": 94000,
+    "prerequis": [],
+    "tags": [
+      "Agile",
+      "DevOps",
+      "Project Management"
+    ]
+  },
+  {
+    "cours_id": "COURS-065",
+    "id_original_coursera": 482,
+    "titre": "Agile Meets Design Thinking",
+    "organisation": "University of Virginia",
+    "type_certificat": "COURSE",
+    "categorie": "DevOps",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 69000,
+    "prerequis": [],
+    "tags": [
+      "Agile",
+      "DevOps",
+      "Project Management"
+    ]
+  },
+  {
+    "cours_id": "COURS-066",
+    "id_original_coursera": 589,
+    "titre": "Version Control with Git",
+    "organisation": "Atlassian",
+    "type_certificat": "COURSE",
+    "categorie": "DevOps",
+    "niveau": "Intermediate",
+    "rating": 4.8,
+    "duree_heures": 20,
+    "etudiants_inscrits": 40000,
+    "prerequis": [
+      "Basic programming"
+    ],
+    "tags": [
+      "DevOps",
+      "Git"
+    ]
+  },
+  {
+    "cours_id": "COURS-067",
+    "id_original_coursera": 390,
+    "titre": "Android App Development",
+    "organisation": "Vanderbilt University",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Mobile Development",
+    "niveau": "Beginner",
+    "rating": 4.5,
+    "duree_heures": 72,
+    "etudiants_inscrits": 120000,
+    "prerequis": [],
+    "tags": [
+      "Android",
+      "Mobile Development"
+    ]
+  },
+  {
+    "cours_id": "COURS-068",
+    "id_original_coursera": 387,
+    "titre": "Swift 5 iOS Application Developer",
+    "organisation": "LearnQuest",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Mobile Development",
+    "niveau": "Beginner",
+    "rating": 4.5,
+    "duree_heures": 72,
+    "etudiants_inscrits": 3900,
+    "prerequis": [],
+    "tags": [
+      "Mobile Development",
+      "Swift",
+      "iOS"
+    ]
+  },
+  {
+    "cours_id": "COURS-069",
+    "id_original_coursera": 862,
+    "titre": "Introduction to Big Data",
+    "organisation": "University of California San Diego",
+    "type_certificat": "COURSE",
+    "categorie": "Big Data",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 20,
+    "etudiants_inscrits": 160000,
+    "prerequis": [
+      "SQL basics",
+      "Python basics",
+      "Python"
+    ],
+    "tags": [
+      "Big Data",
+      "Data Engineering"
+    ]
+  },
+  {
+    "cours_id": "COURS-070",
+    "id_original_coursera": 227,
+    "titre": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
+    "organisation": "Google Cloud",
+    "type_certificat": "COURSE",
+    "categorie": "Cloud Computing",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 22,
+    "etudiants_inscrits": 120000,
+    "prerequis": [
+      "SQL basics",
+      "Python basics",
+      "Basic IT knowledge"
+    ],
+    "tags": [
+      "AI",
+      "Big Data",
+      "Cloud Computing",
+      "Data Engineering",
+      "Machine Learning"
+    ]
+  },
+  {
+    "cours_id": "COURS-071",
+    "id_original_coursera": 251,
+    "titre": "Blockchain",
+    "organisation": "University at Buffalo",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Blockchain",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 88,
+    "etudiants_inscrits": 68000,
+    "prerequis": [],
+    "tags": [
+      "Blockchain"
+    ]
+  },
+  {
+    "cours_id": "COURS-072",
+    "id_original_coursera": 719,
+    "titre": "Blockchain: Foundations and Use Cases",
+    "organisation": "ConsenSys Academy",
+    "type_certificat": "COURSE",
+    "categorie": "Blockchain",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 31000,
+    "prerequis": [],
+    "tags": [
+      "Blockchain"
+    ]
+  },
+  {
+    "cours_id": "COURS-073",
+    "id_original_coursera": 30,
+    "titre": "Project Management Principles and Practices",
+    "organisation": "University of California, Irvine",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Project Management",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 72,
+    "etudiants_inscrits": 230000,
+    "prerequis": [],
+    "tags": [
+      "Project Management"
+    ]
+  },
+  {
+    "cours_id": "COURS-074",
+    "id_original_coursera": 4,
+    "titre": "Google IT Support",
+    "organisation": "Google",
+    "type_certificat": "PROFESSIONAL CERTIFICATE",
+    "categorie": "IT Support",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 108,
+    "etudiants_inscrits": 350000,
+    "prerequis": [],
+    "tags": [
+      "IT Support"
+    ]
+  },
+  {
+    "cours_id": "COURS-075",
+    "id_original_coursera": 41,
+    "titre": "Technical Support Fundamentals",
+    "organisation": "Google",
+    "type_certificat": "COURSE",
+    "categorie": "IT Support",
+    "niveau": "Beginner",
+    "rating": 4.8,
+    "duree_heures": 18,
+    "etudiants_inscrits": 280000,
+    "prerequis": [],
+    "tags": [
+      "General Tech"
+    ]
+  },
+  {
+    "cours_id": "COURS-076",
+    "id_original_coursera": 317,
+    "titre": "R Programming",
+    "organisation": "Johns Hopkins University",
+    "type_certificat": "COURSE",
+    "categorie": "Statistics",
+    "niveau": "Intermediate",
+    "rating": 4.6,
+    "duree_heures": 22,
+    "etudiants_inscrits": 480000,
+    "prerequis": [
+      "Python basics",
+      "Basic Statistics",
+      "Basic statistics"
+    ],
+    "tags": [
+      "Data Science",
+      "R",
+      "Statistics"
+    ]
+  },
+  {
+    "cours_id": "COURS-077",
+    "id_original_coursera": 642,
+    "titre": "Basic Statistics",
+    "organisation": "University of Amsterdam",
+    "type_certificat": "COURSE",
+    "categorie": "Statistics",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 18,
+    "etudiants_inscrits": 180000,
+    "prerequis": [],
+    "tags": [
+      "Data Science",
+      "Statistics"
+    ]
+  },
+  {
+    "cours_id": "COURS-078",
+    "id_original_coursera": 55,
+    "titre": "Mathematics for Machine Learning",
+    "organisation": "Imperial College London",
+    "type_certificat": "SPECIALIZATION",
+    "categorie": "Machine Learning",
+    "niveau": "Beginner",
+    "rating": 4.6,
+    "duree_heures": 72,
+    "etudiants_inscrits": 150000,
+    "prerequis": [],
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Mathematics"
+    ]
+  },
+  {
+    "cours_id": "COURS-079",
+    "id_original_coursera": 223,
+    "titre": "Mathematics for Machine Learning: Linear Algebra",
+    "organisation": "Imperial College London",
+    "type_certificat": "COURSE",
+    "categorie": "Machine Learning",
+    "niveau": "Beginner",
+    "rating": 4.7,
+    "duree_heures": 18,
+    "etudiants_inscrits": 140000,
+    "prerequis": [],
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Mathematics"
+    ]
+  }
+]

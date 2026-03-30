@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduPath Africa — Recommandation IA de Formations</title>
+
+    <!-- ========================================================= -->
+    <!-- POLICES : Poppins (titres) + Inter (corps de texte)        -->
+    <!-- ========================================================= -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- ========================================================= -->
+    <!-- PARTICULES DE FOND (décoratives)                           -->
+    <!-- Petits points lumineux qui donnent de la profondeur        -->
+    <!-- ========================================================= -->
+    <div class="bg-particles">
+        <div class="particle p1"></div>
+        <div class="particle p2"></div>
+        <div class="particle p3"></div>
+        <div class="particle p4"></div>
+        <div class="particle p5"></div>
+        <div class="particle p6"></div>
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- NAVBAR GLASSMORPHISM                                       -->
+    <!-- ========================================================= -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <!-- Logo -->
+            <a href="#" class="nav-brand">
+                <div class="brand-icon">
+                    <!-- SVG : Toque + Crayon -->
+                    <svg width="26" height="26" viewBox="0 0 24 24" fill="none">
+                        <defs>
+                            <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" stop-color="#7C3AED"/>
+                                <stop offset="100%" stop-color="#0EA5E9"/>
+                            </linearGradient>
+                        </defs>
+                        <path d="M22 10v6M2 10l10-5 10 5-10 5z" stroke="url(#logoGrad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M6 12v5c0 2 4 3 6 3s6-1 6-3v-5" stroke="url(#logoGrad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <span class="brand-name">EduPath<span class="brand-accent">Africa</span></span>
+            </a>
+
+            <!-- Liens centraux -->
+            <div class="nav-center">
+                <a href="#" class="nav-tab active">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+                    Dashboard
+                </a>
+                <a href="#" class="nav-tab">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+                    Catalogue
+                </a>
+                <a href="#" class="nav-tab">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                    Analytics
+                </a>
+            </div>
+
+            <!-- Droite : notification + avatar -->
+            <div class="nav-right">
+                <button class="nav-icon-btn" title="Notifications">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/>
+                        <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+                    </svg>
+                    <span class="notif-badge">3</span>
+                </button>
+                <div class="nav-avatar" id="nav-avatar">
+                    <span>EA</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ========================================================= -->
+    <!-- CONTENU PRINCIPAL                                          -->
+    <!-- ========================================================= -->
+    <main class="main">
+
+        <!-- ──────────────────────────────────────────────────────── -->
+        <!-- HERO                                                     -->
+        <!-- ──────────────────────────────────────────────────────── -->
+        <section class="hero">
+            <div class="hero-bg-glow"></div>
+            <div class="hero-content">
+                <p class="hero-eyebrow">
+                    <span class="eyebrow-dot"></span>
+                    Moteur de recommandation IA
+                </p>
+                <h1 class="hero-title">
+                    Découvrez votre parcours
+                    <br/>
+                    <span class="title-gradient">de formation idéal</span>
+                </h1>
+                <p class="hero-desc">
+                    Notre algorithme analyse votre profil, vos intérêts et votre historique
+                    pour vous recommander les 5 cours les plus pertinents parmi notre catalogue.
+                </p>
+            </div>
+        </section>
+
+        <!-- ──────────────────────────────────────────────────────── -->
+        <!-- STATISTIQUES EN PILLS                                    -->
+        <!-- ──────────────────────────────────────────────────────── -->
+        <section class="stats-row">
+            <div class="stat-card">
+                <div class="stat-icon si-blue">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-num" id="stat-cours">—</span>
+                    <span class="stat-lbl">Cours</span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-icon si-violet">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-num" id="stat-apprenants">—</span>
+                    <span class="stat-lbl">Apprenants</span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-icon si-cyan">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-num" id="stat-interactions">—</span>
+                    <span class="stat-lbl">Interactions</span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-icon si-emerald">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                </div>
+                <div class="stat-data">
+                    <span class="stat-num" id="stat-categories">—</span>
+                    <span class="stat-lbl">Catégories</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- ──────────────────────────────────────────────────────── -->
+        <!-- SÉLECTION APPRENANT                                      -->
+        <!-- ──────────────────────────────────────────────────────── -->
+        <section class="panel select-panel">
+            <div class="panel-head">
+                <div class="panel-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0EA5E9" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                </div>
+                <div>
+                    <h2 class="panel-title">Sélectionner un apprenant</h2>
+                    <p class="panel-desc">Choisissez un profil pour générer des recommandations personnalisées</p>
+                </div>
+            </div>
+
+            <div class="select-row">
+                <div class="select-wrap">
+                    <select id="apprenant-select">
+                        <option value="">— Choisir un apprenant —</option>
+                    </select>
+                    <svg class="select-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#A0AEC0" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                </div>
+
+                <button class="btn-primary" id="btn-recommend" onclick="getRecommendations()">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                    Recommander
+                </button>
+
+                <button class="btn-ghost" onclick="getRecommendations()" title="Rafraîchir">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+                </button>
+            </div>
+        </section>
+
+        <!-- ──────────────────────────────────────────────────────── -->
+        <!-- PROFIL APPRENANT                                         -->
+        <!-- ──────────────────────────────────────────────────────── -->
+        <section class="profile-panel" id="profile-section" style="display:none;">
+            <div class="profile-glow"></div>
+            <div class="profile-top-bar"></div>
+            <div class="profile-inner">
+                <div class="profile-left">
+                    <div class="profile-avatar" id="profile-avatar"><span id="profile-initials">—</span></div>
+                    <div class="profile-id-block">
+                        <h3 class="profile-name" id="profile-name">—</h3>
+                        <span class="profile-badge" id="profile-level">—</span>
+                    </div>
+                </div>
+                <div class="profile-metas">
+                    <div class="pmeta">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0EA5E9" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                        <span id="profile-country">—</span>
+                    </div>
+                    <div class="pmeta">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7C3AED" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        <span id="profile-spec">—</span>
+                    </div>
+                    <div class="pmeta">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                        <span id="profile-date">—</span>
+                    </div>
+                </div>
+                <div class="profile-tags" id="profile-tags"></div>
+            </div>
+        </section>
+
+        <!-- ──────────────────────────────────────────────────────── -->
+        <!-- LOADING                                                  -->
+        <!-- ──────────────────────────────────────────────────────── -->
+        <section class="loading-zone" id="loading" style="display:none;">
+            <div class="pulse-loader">
+                <span></span><span></span><span></span>
+            </div>
+            <p class="load-msg">Analyse en cours avec notre algorithme IA…</p>
+            <p class="load-sub">Calcul des scores de pertinence pour chaque cours</p>
+        </section>
+
+        <!-- ──────────────────────────────────────────────────────── -->
+        <!-- RÉSULTATS                                                -->
+        <!-- ──────────────────────────────────────────────────────── -->
+        <section class="results" id="results-section" style="display:none;">
+            <div class="panel-head">
+                <div class="panel-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0EA5E9" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                </div>
+                <div>
+                    <h2 class="panel-title">Cours recommandés pour vous</h2>
+                    <p class="panel-desc">Top 5 des formations triées par score de pertinence</p>
+                </div>
+            </div>
+            <div class="reco-list" id="recommendations-list"></div>
+        </section>
+
+    </main>
+
+    <!-- ========================================================= -->
+    <!-- FOOTER                                                     -->
+    <!-- ========================================================= -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <span class="footer-brand">EduPath<span class="brand-accent">Africa</span></span>
+            <span class="footer-copy">Projet P-06 · AWS Cloud Foundations · M. LAM Sabarane · 2025-2026</span>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

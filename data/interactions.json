@@ -1,0 +1,920 @@
+[
+  {
+    "apprenant_id": "APP-001",
+    "cours_id_timestamp": "COURS-015#2024-05-18T08:00:00",
+    "cours_id": "COURS-015",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 28,
+    "timestamp": "2024-05-18T08:00:00"
+  },
+  {
+    "apprenant_id": "APP-001",
+    "cours_id_timestamp": "COURS-025#2024-06-03T09:50:00",
+    "cours_id": "COURS-025",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-06-03T09:50:00"
+  },
+  {
+    "apprenant_id": "APP-001",
+    "cours_id_timestamp": "COURS-026#2024-03-20T10:28:00",
+    "cours_id": "COURS-026",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 52,
+    "timestamp": "2024-03-20T10:28:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-036#2024-03-09T13:28:00",
+    "cours_id": "COURS-036",
+    "type_interaction": "TERMINE",
+    "note": 5.0,
+    "progression_pct": 89,
+    "timestamp": "2024-03-09T13:28:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-045#2024-04-21T22:18:00",
+    "cours_id": "COURS-045",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 44,
+    "timestamp": "2024-04-21T22:18:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-046#2024-07-11T22:58:00",
+    "cours_id": "COURS-046",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 42,
+    "timestamp": "2024-07-11T22:58:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-047#2024-03-24T10:57:00",
+    "cours_id": "COURS-047",
+    "type_interaction": "TERMINE",
+    "note": 3.7,
+    "progression_pct": 73,
+    "timestamp": "2024-03-24T10:57:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-048#2024-03-16T09:40:00",
+    "cours_id": "COURS-048",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 63,
+    "timestamp": "2024-03-16T09:40:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-032#2024-03-16T13:52:00",
+    "cours_id": "COURS-032",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-16T13:52:00"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "cours_id_timestamp": "COURS-033#2024-04-15T12:29:00",
+    "cours_id": "COURS-033",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-15T12:29:00"
+  },
+  {
+    "apprenant_id": "APP-003",
+    "cours_id_timestamp": "COURS-002#2024-07-20T18:34:00",
+    "cours_id": "COURS-002",
+    "type_interaction": "TERMINE",
+    "note": 4.6,
+    "progression_pct": 70,
+    "timestamp": "2024-07-20T18:34:00"
+  },
+  {
+    "apprenant_id": "APP-003",
+    "cours_id_timestamp": "COURS-001#2024-08-10T19:29:00",
+    "cours_id": "COURS-001",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-10T19:29:00"
+  },
+  {
+    "apprenant_id": "APP-003",
+    "cours_id_timestamp": "COURS-003#2024-08-08T11:05:00",
+    "cours_id": "COURS-003",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-08T11:05:00"
+  },
+  {
+    "apprenant_id": "APP-003",
+    "cours_id_timestamp": "COURS-004#2024-05-15T15:17:00",
+    "cours_id": "COURS-004",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-05-15T15:17:00"
+  },
+  {
+    "apprenant_id": "APP-004",
+    "cours_id_timestamp": "COURS-039#2024-07-24T18:09:00",
+    "cours_id": "COURS-039",
+    "type_interaction": "TERMINE",
+    "note": 3.6,
+    "progression_pct": 93,
+    "timestamp": "2024-07-24T18:09:00"
+  },
+  {
+    "apprenant_id": "APP-004",
+    "cours_id_timestamp": "COURS-048#2024-07-17T12:01:00",
+    "cours_id": "COURS-048",
+    "type_interaction": "TERMINE",
+    "note": 3.9,
+    "progression_pct": 93,
+    "timestamp": "2024-07-17T12:01:00"
+  },
+  {
+    "apprenant_id": "APP-004",
+    "cours_id_timestamp": "COURS-038#2024-03-09T19:40:00",
+    "cours_id": "COURS-038",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 38,
+    "timestamp": "2024-03-09T19:40:00"
+  },
+  {
+    "apprenant_id": "APP-004",
+    "cours_id_timestamp": "COURS-040#2024-06-23T20:34:00",
+    "cours_id": "COURS-040",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 21,
+    "timestamp": "2024-06-23T20:34:00"
+  },
+  {
+    "apprenant_id": "APP-005",
+    "cours_id_timestamp": "COURS-056#2024-07-13T11:01:00",
+    "cours_id": "COURS-056",
+    "type_interaction": "TERMINE",
+    "note": 4.2,
+    "progression_pct": 70,
+    "timestamp": "2024-07-13T11:01:00"
+  },
+  {
+    "apprenant_id": "APP-005",
+    "cours_id_timestamp": "COURS-057#2024-05-31T08:18:00",
+    "cours_id": "COURS-057",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 19,
+    "timestamp": "2024-05-31T08:18:00"
+  },
+  {
+    "apprenant_id": "APP-005",
+    "cours_id_timestamp": "COURS-058#2024-05-24T14:29:00",
+    "cours_id": "COURS-058",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 50,
+    "timestamp": "2024-05-24T14:29:00"
+  },
+  {
+    "apprenant_id": "APP-005",
+    "cours_id_timestamp": "COURS-059#2024-03-02T13:34:00",
+    "cours_id": "COURS-059",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 43,
+    "timestamp": "2024-03-02T13:34:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-002#2024-04-23T08:53:00",
+    "cours_id": "COURS-002",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-23T08:53:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-050#2024-08-10T14:33:00",
+    "cours_id": "COURS-050",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 10,
+    "timestamp": "2024-08-10T14:33:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-051#2024-08-02T14:55:00",
+    "cours_id": "COURS-051",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 22,
+    "timestamp": "2024-08-02T14:55:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-052#2024-05-17T10:34:00",
+    "cours_id": "COURS-052",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 17,
+    "timestamp": "2024-05-17T10:34:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-053#2024-04-22T12:11:00",
+    "cours_id": "COURS-053",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 51,
+    "timestamp": "2024-04-22T12:11:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-054#2024-06-03T17:13:00",
+    "cours_id": "COURS-054",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 39,
+    "timestamp": "2024-06-03T17:13:00"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "cours_id_timestamp": "COURS-001#2024-04-07T18:20:00",
+    "cours_id": "COURS-001",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-07T18:20:00"
+  },
+  {
+    "apprenant_id": "APP-007",
+    "cours_id_timestamp": "COURS-026#2024-04-11T09:48:00",
+    "cours_id": "COURS-026",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 38,
+    "timestamp": "2024-04-11T09:48:00"
+  },
+  {
+    "apprenant_id": "APP-007",
+    "cours_id_timestamp": "COURS-015#2024-03-23T21:57:00",
+    "cours_id": "COURS-015",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 22,
+    "timestamp": "2024-03-23T21:57:00"
+  },
+  {
+    "apprenant_id": "APP-007",
+    "cours_id_timestamp": "COURS-025#2024-03-21T22:20:00",
+    "cours_id": "COURS-025",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-21T22:20:00"
+  },
+  {
+    "apprenant_id": "APP-007",
+    "cours_id_timestamp": "COURS-028#2024-05-23T20:15:00",
+    "cours_id": "COURS-028",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 48,
+    "timestamp": "2024-05-23T20:15:00"
+  },
+  {
+    "apprenant_id": "APP-007",
+    "cours_id_timestamp": "COURS-061#2024-04-22T08:01:00",
+    "cours_id": "COURS-061",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-22T08:01:00"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "cours_id_timestamp": "COURS-015#2024-07-04T21:06:00",
+    "cours_id": "COURS-015",
+    "type_interaction": "TERMINE",
+    "note": 4.0,
+    "progression_pct": 94,
+    "timestamp": "2024-07-04T21:06:00"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "cours_id_timestamp": "COURS-025#2024-06-03T21:20:00",
+    "cours_id": "COURS-025",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 37,
+    "timestamp": "2024-06-03T21:20:00"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "cours_id_timestamp": "COURS-026#2024-04-13T10:44:00",
+    "cours_id": "COURS-026",
+    "type_interaction": "TERMINE",
+    "note": 3.6,
+    "progression_pct": 79,
+    "timestamp": "2024-04-13T10:44:00"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "cours_id_timestamp": "COURS-028#2024-04-28T20:57:00",
+    "cours_id": "COURS-028",
+    "type_interaction": "TERMINE",
+    "note": 4.2,
+    "progression_pct": 96,
+    "timestamp": "2024-04-28T20:57:00"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "cours_id_timestamp": "COURS-010#2024-04-17T18:31:00",
+    "cours_id": "COURS-010",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 41,
+    "timestamp": "2024-04-17T18:31:00"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "cours_id_timestamp": "COURS-011#2024-03-02T10:32:00",
+    "cours_id": "COURS-011",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 38,
+    "timestamp": "2024-03-02T10:32:00"
+  },
+  {
+    "apprenant_id": "APP-009",
+    "cours_id_timestamp": "COURS-036#2024-05-07T15:03:00",
+    "cours_id": "COURS-036",
+    "type_interaction": "TERMINE",
+    "note": 4.0,
+    "progression_pct": 84,
+    "timestamp": "2024-05-07T15:03:00"
+  },
+  {
+    "apprenant_id": "APP-009",
+    "cours_id_timestamp": "COURS-037#2024-06-18T18:50:00",
+    "cours_id": "COURS-037",
+    "type_interaction": "TERMINE",
+    "note": 4.5,
+    "progression_pct": 100,
+    "timestamp": "2024-06-18T18:50:00"
+  },
+  {
+    "apprenant_id": "APP-009",
+    "cours_id_timestamp": "COURS-038#2024-05-11T13:58:00",
+    "cours_id": "COURS-038",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 69,
+    "timestamp": "2024-05-11T13:58:00"
+  },
+  {
+    "apprenant_id": "APP-009",
+    "cours_id_timestamp": "COURS-041#2024-04-28T12:16:00",
+    "cours_id": "COURS-041",
+    "type_interaction": "TERMINE",
+    "note": 4.1,
+    "progression_pct": 74,
+    "timestamp": "2024-04-28T12:16:00"
+  },
+  {
+    "apprenant_id": "APP-010",
+    "cours_id_timestamp": "COURS-001#2024-06-14T15:09:00",
+    "cours_id": "COURS-001",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-06-14T15:09:00"
+  },
+  {
+    "apprenant_id": "APP-010",
+    "cours_id_timestamp": "COURS-002#2024-03-18T14:21:00",
+    "cours_id": "COURS-002",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-18T14:21:00"
+  },
+  {
+    "apprenant_id": "APP-010",
+    "cours_id_timestamp": "COURS-003#2024-04-12T13:52:00",
+    "cours_id": "COURS-003",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 34,
+    "timestamp": "2024-04-12T13:52:00"
+  },
+  {
+    "apprenant_id": "APP-010",
+    "cours_id_timestamp": "COURS-004#2024-03-12T21:55:00",
+    "cours_id": "COURS-004",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-12T21:55:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-015#2024-07-03T22:50:00",
+    "cours_id": "COURS-015",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 17,
+    "timestamp": "2024-07-03T22:50:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-025#2024-03-08T12:21:00",
+    "cours_id": "COURS-025",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 39,
+    "timestamp": "2024-03-08T12:21:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-026#2024-08-01T20:57:00",
+    "cours_id": "COURS-026",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-01T20:57:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-028#2024-03-16T18:08:00",
+    "cours_id": "COURS-028",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 53,
+    "timestamp": "2024-03-16T18:08:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-029#2024-04-20T15:14:00",
+    "cours_id": "COURS-029",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 45,
+    "timestamp": "2024-04-20T15:14:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-030#2024-03-02T14:12:00",
+    "cours_id": "COURS-030",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 30,
+    "timestamp": "2024-03-02T14:12:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-010#2024-07-29T22:42:00",
+    "cours_id": "COURS-010",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-07-29T22:42:00"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "cours_id_timestamp": "COURS-011#2024-07-30T22:43:00",
+    "cours_id": "COURS-011",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-07-30T22:43:00"
+  },
+  {
+    "apprenant_id": "APP-012",
+    "cours_id_timestamp": "COURS-064#2024-07-30T11:47:00",
+    "cours_id": "COURS-064",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 53,
+    "timestamp": "2024-07-30T11:47:00"
+  },
+  {
+    "apprenant_id": "APP-012",
+    "cours_id_timestamp": "COURS-065#2024-06-22T21:05:00",
+    "cours_id": "COURS-065",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 42,
+    "timestamp": "2024-06-22T21:05:00"
+  },
+  {
+    "apprenant_id": "APP-012",
+    "cours_id_timestamp": "COURS-066#2024-03-03T08:33:00",
+    "cours_id": "COURS-066",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-03T08:33:00"
+  },
+  {
+    "apprenant_id": "APP-012",
+    "cours_id_timestamp": "COURS-001#2024-07-17T10:51:00",
+    "cours_id": "COURS-001",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-07-17T10:51:00"
+  },
+  {
+    "apprenant_id": "APP-013",
+    "cours_id_timestamp": "COURS-032#2024-03-18T22:20:00",
+    "cours_id": "COURS-032",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 40,
+    "timestamp": "2024-03-18T22:20:00"
+  },
+  {
+    "apprenant_id": "APP-013",
+    "cours_id_timestamp": "COURS-033#2024-05-21T20:35:00",
+    "cours_id": "COURS-033",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 57,
+    "timestamp": "2024-05-21T20:35:00"
+  },
+  {
+    "apprenant_id": "APP-013",
+    "cours_id_timestamp": "COURS-006#2024-05-06T19:49:00",
+    "cours_id": "COURS-006",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 49,
+    "timestamp": "2024-05-06T19:49:00"
+  },
+  {
+    "apprenant_id": "APP-014",
+    "cours_id_timestamp": "COURS-067#2024-03-08T11:02:00",
+    "cours_id": "COURS-067",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 30,
+    "timestamp": "2024-03-08T11:02:00"
+  },
+  {
+    "apprenant_id": "APP-014",
+    "cours_id_timestamp": "COURS-010#2024-03-23T12:10:00",
+    "cours_id": "COURS-010",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-23T12:10:00"
+  },
+  {
+    "apprenant_id": "APP-014",
+    "cours_id_timestamp": "COURS-011#2024-05-10T11:39:00",
+    "cours_id": "COURS-011",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-05-10T11:39:00"
+  },
+  {
+    "apprenant_id": "APP-014",
+    "cours_id_timestamp": "COURS-012#2024-04-07T14:14:00",
+    "cours_id": "COURS-012",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-07T14:14:00"
+  },
+  {
+    "apprenant_id": "APP-015",
+    "cours_id_timestamp": "COURS-002#2024-04-27T15:14:00",
+    "cours_id": "COURS-002",
+    "type_interaction": "TERMINE",
+    "note": 4.0,
+    "progression_pct": 92,
+    "timestamp": "2024-04-27T15:14:00"
+  },
+  {
+    "apprenant_id": "APP-015",
+    "cours_id_timestamp": "COURS-003#2024-06-22T22:08:00",
+    "cours_id": "COURS-003",
+    "type_interaction": "TERMINE",
+    "note": 4.0,
+    "progression_pct": 91,
+    "timestamp": "2024-06-22T22:08:00"
+  },
+  {
+    "apprenant_id": "APP-015",
+    "cours_id_timestamp": "COURS-001#2024-08-13T22:49:00",
+    "cours_id": "COURS-001",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 18,
+    "timestamp": "2024-08-13T22:49:00"
+  },
+  {
+    "apprenant_id": "APP-015",
+    "cours_id_timestamp": "COURS-004#2024-05-22T14:50:00",
+    "cours_id": "COURS-004",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-05-22T14:50:00"
+  },
+  {
+    "apprenant_id": "APP-015",
+    "cours_id_timestamp": "COURS-005#2024-04-28T22:55:00",
+    "cours_id": "COURS-005",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 50,
+    "timestamp": "2024-04-28T22:55:00"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "cours_id_timestamp": "COURS-069#2024-04-10T22:15:00",
+    "cours_id": "COURS-069",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-10T22:15:00"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "cours_id_timestamp": "COURS-070#2024-06-29T17:23:00",
+    "cours_id": "COURS-070",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 50,
+    "timestamp": "2024-06-29T17:23:00"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "cours_id_timestamp": "COURS-010#2024-08-02T11:47:00",
+    "cours_id": "COURS-010",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-02T11:47:00"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "cours_id_timestamp": "COURS-011#2024-04-30T13:25:00",
+    "cours_id": "COURS-011",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-04-30T13:25:00"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "cours_id_timestamp": "COURS-012#2024-03-03T14:32:00",
+    "cours_id": "COURS-012",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-03T14:32:00"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "cours_id_timestamp": "COURS-013#2024-08-23T20:03:00",
+    "cours_id": "COURS-013",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-23T20:03:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-015#2024-03-21T15:11:00",
+    "cours_id": "COURS-015",
+    "type_interaction": "TERMINE",
+    "note": 3.9,
+    "progression_pct": 79,
+    "timestamp": "2024-03-21T15:11:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-025#2024-06-12T10:17:00",
+    "cours_id": "COURS-025",
+    "type_interaction": "TERMINE",
+    "note": 4.6,
+    "progression_pct": 100,
+    "timestamp": "2024-06-12T10:17:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-028#2024-06-03T17:29:00",
+    "cours_id": "COURS-028",
+    "type_interaction": "TERMINE",
+    "note": 3.8,
+    "progression_pct": 84,
+    "timestamp": "2024-06-03T17:29:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-017#2024-05-16T18:38:00",
+    "cours_id": "COURS-017",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 24,
+    "timestamp": "2024-05-16T18:38:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-018#2024-08-26T14:33:00",
+    "cours_id": "COURS-018",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-26T14:33:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-019#2024-04-06T08:08:00",
+    "cours_id": "COURS-019",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 39,
+    "timestamp": "2024-04-06T08:08:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-020#2024-08-04T09:17:00",
+    "cours_id": "COURS-020",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-04T09:17:00"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "cours_id_timestamp": "COURS-021#2024-08-23T20:51:00",
+    "cours_id": "COURS-021",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-08-23T20:51:00"
+  },
+  {
+    "apprenant_id": "APP-018",
+    "cours_id_timestamp": "COURS-059#2024-06-15T22:53:00",
+    "cours_id": "COURS-059",
+    "type_interaction": "TERMINE",
+    "note": 4.7,
+    "progression_pct": 75,
+    "timestamp": "2024-06-15T22:53:00"
+  },
+  {
+    "apprenant_id": "APP-018",
+    "cours_id_timestamp": "COURS-056#2024-06-21T20:30:00",
+    "cours_id": "COURS-056",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 15,
+    "timestamp": "2024-06-21T20:30:00"
+  },
+  {
+    "apprenant_id": "APP-018",
+    "cours_id_timestamp": "COURS-057#2024-06-09T12:09:00",
+    "cours_id": "COURS-057",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-06-09T12:09:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-050#2024-04-27T22:24:00",
+    "cours_id": "COURS-050",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 53,
+    "timestamp": "2024-04-27T22:24:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-051#2024-03-08T09:20:00",
+    "cours_id": "COURS-051",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 32,
+    "timestamp": "2024-03-08T09:20:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-052#2024-06-27T08:20:00",
+    "cours_id": "COURS-052",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 14,
+    "timestamp": "2024-06-27T08:20:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-053#2024-03-18T12:07:00",
+    "cours_id": "COURS-053",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 36,
+    "timestamp": "2024-03-18T12:07:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-054#2024-05-22T22:14:00",
+    "cours_id": "COURS-054",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-05-22T22:14:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-002#2024-05-04T21:12:00",
+    "cours_id": "COURS-002",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-05-04T21:12:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-016#2024-03-17T15:57:00",
+    "cours_id": "COURS-016",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-03-17T15:57:00"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "cours_id_timestamp": "COURS-049#2024-05-18T10:41:00",
+    "cours_id": "COURS-049",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-05-18T10:41:00"
+  },
+  {
+    "apprenant_id": "APP-020",
+    "cours_id_timestamp": "COURS-015#2024-05-01T20:04:00",
+    "cours_id": "COURS-015",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 42,
+    "timestamp": "2024-05-01T20:04:00"
+  },
+  {
+    "apprenant_id": "APP-020",
+    "cours_id_timestamp": "COURS-023#2024-06-24T08:49:00",
+    "cours_id": "COURS-023",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-06-24T08:49:00"
+  },
+  {
+    "apprenant_id": "APP-020",
+    "cours_id_timestamp": "COURS-025#2024-06-16T16:35:00",
+    "cours_id": "COURS-025",
+    "type_interaction": "VU",
+    "note": null,
+    "progression_pct": 0,
+    "timestamp": "2024-06-16T16:35:00"
+  },
+  {
+    "apprenant_id": "APP-020",
+    "cours_id_timestamp": "COURS-026#2024-05-10T21:33:00",
+    "cours_id": "COURS-026",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 31,
+    "timestamp": "2024-05-10T21:33:00"
+  },
+  {
+    "apprenant_id": "APP-020",
+    "cours_id_timestamp": "COURS-028#2024-04-24T19:45:00",
+    "cours_id": "COURS-028",
+    "type_interaction": "COMMENCE",
+    "note": null,
+    "progression_pct": 28,
+    "timestamp": "2024-04-24T19:45:00"
+  }
+]

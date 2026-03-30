@@ -1,0 +1,274 @@
+[
+  {
+    "apprenant_id": "APP-001",
+    "nom": "Aminata Diallo",
+    "pays": "Sénégal",
+    "niveau": "Beginner",
+    "specialisation": "Data Science",
+    "tags_interet": [
+      "Data Science",
+      "Python",
+      "Statistics"
+    ],
+    "date_inscription": "2024-10-15"
+  },
+  {
+    "apprenant_id": "APP-002",
+    "nom": "Kwame Asante",
+    "pays": "Ghana",
+    "niveau": "Intermediate",
+    "specialisation": "Machine Learning",
+    "tags_interet": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "TensorFlow"
+    ],
+    "date_inscription": "2024-11-16"
+  },
+  {
+    "apprenant_id": "APP-003",
+    "nom": "Fatou Ndiaye",
+    "pays": "Sénégal",
+    "niveau": "Beginner",
+    "specialisation": "Cloud AWS",
+    "tags_interet": [
+      "Cloud AWS",
+      "Cloud Computing",
+      "Security"
+    ],
+    "date_inscription": "2024-11-21"
+  },
+  {
+    "apprenant_id": "APP-004",
+    "nom": "Chidi Okonkwo",
+    "pays": "Nigeria",
+    "niveau": "Advanced",
+    "specialisation": "Deep Learning",
+    "tags_interet": [
+      "Deep Learning",
+      "Neural Networks",
+      "Computer Vision",
+      "NLP"
+    ],
+    "date_inscription": "2024-07-24"
+  },
+  {
+    "apprenant_id": "APP-005",
+    "nom": "Amina Yusuf",
+    "pays": "Kenya",
+    "niveau": "Beginner",
+    "specialisation": "Web Development",
+    "tags_interet": [
+      "Web Development",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "date_inscription": "2024-11-01"
+  },
+  {
+    "apprenant_id": "APP-006",
+    "nom": "Moussa Traoré",
+    "pays": "Mali",
+    "niveau": "Intermediate",
+    "specialisation": "Cybersecurity",
+    "tags_interet": [
+      "Cybersecurity",
+      "Security",
+      "Cloud Computing"
+    ],
+    "date_inscription": "2024-11-22"
+  },
+  {
+    "apprenant_id": "APP-007",
+    "nom": "Grace Mwangi",
+    "pays": "Kenya",
+    "niveau": "Intermediate",
+    "specialisation": "Data Science",
+    "tags_interet": [
+      "Data Science",
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "date_inscription": "2024-07-27"
+  },
+  {
+    "apprenant_id": "APP-008",
+    "nom": "Ibrahim Coulibaly",
+    "pays": "Côte d'Ivoire",
+    "niveau": "Beginner",
+    "specialisation": "Python",
+    "tags_interet": [
+      "Python",
+      "Programming",
+      "Data Science"
+    ],
+    "date_inscription": "2024-03-04"
+  },
+  {
+    "apprenant_id": "APP-009",
+    "nom": "Zainab Adeyemi",
+    "pays": "Nigeria",
+    "niveau": "Advanced",
+    "specialisation": "Machine Learning",
+    "tags_interet": [
+      "Machine Learning",
+      "AI",
+      "Deep Learning",
+      "Big Data"
+    ],
+    "date_inscription": "2024-07-07"
+  },
+  {
+    "apprenant_id": "APP-010",
+    "nom": "Jean-Pierre Habimana",
+    "pays": "Rwanda",
+    "niveau": "Beginner",
+    "specialisation": "Cloud AWS",
+    "tags_interet": [
+      "Cloud AWS",
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "date_inscription": "2024-11-05"
+  },
+  {
+    "apprenant_id": "APP-011",
+    "nom": "Aissatou Barry",
+    "pays": "Guinée",
+    "niveau": "Intermediate",
+    "specialisation": "Data Science",
+    "tags_interet": [
+      "Data Science",
+      "Data Visualization",
+      "Python",
+      "Tableau"
+    ],
+    "date_inscription": "2024-08-26"
+  },
+  {
+    "apprenant_id": "APP-012",
+    "nom": "David Mensah",
+    "pays": "Ghana",
+    "niveau": "Beginner",
+    "specialisation": "DevOps",
+    "tags_interet": [
+      "DevOps",
+      "Git",
+      "Cloud Computing",
+      "Agile"
+    ],
+    "date_inscription": "2024-09-13"
+  },
+  {
+    "apprenant_id": "APP-013",
+    "nom": "Mariama Bah",
+    "pays": "Gambie",
+    "niveau": "Intermediate",
+    "specialisation": "AI",
+    "tags_interet": [
+      "AI",
+      "Machine Learning",
+      "Python"
+    ],
+    "date_inscription": "2024-03-30"
+  },
+  {
+    "apprenant_id": "APP-014",
+    "nom": "Oluwaseun Adeleke",
+    "pays": "Nigeria",
+    "niveau": "Beginner",
+    "specialisation": "Mobile Development",
+    "tags_interet": [
+      "Mobile Development",
+      "Android",
+      "Programming"
+    ],
+    "date_inscription": "2024-04-07"
+  },
+  {
+    "apprenant_id": "APP-015",
+    "nom": "Fatoumata Keita",
+    "pays": "Mali",
+    "niveau": "Advanced",
+    "specialisation": "Cloud AWS",
+    "tags_interet": [
+      "Cloud AWS",
+      "Cloud Computing",
+      "Serverless",
+      "DevOps",
+      "Security"
+    ],
+    "date_inscription": "2024-09-13"
+  },
+  {
+    "apprenant_id": "APP-016",
+    "nom": "Samuel Tesfaye",
+    "pays": "Éthiopie",
+    "niveau": "Intermediate",
+    "specialisation": "Big Data",
+    "tags_interet": [
+      "Big Data",
+      "Data Engineering",
+      "SQL",
+      "Python"
+    ],
+    "date_inscription": "2024-04-28"
+  },
+  {
+    "apprenant_id": "APP-017",
+    "nom": "Nadia Benali",
+    "pays": "Maroc",
+    "niveau": "Beginner",
+    "specialisation": "Data Science",
+    "tags_interet": [
+      "Data Science",
+      "Statistics",
+      "Python",
+      "Analytics"
+    ],
+    "date_inscription": "2024-09-28"
+  },
+  {
+    "apprenant_id": "APP-018",
+    "nom": "Kofi Boateng",
+    "pays": "Ghana",
+    "niveau": "Intermediate",
+    "specialisation": "Web Development",
+    "tags_interet": [
+      "Web Development",
+      "React",
+      "JavaScript",
+      "Full-Stack"
+    ],
+    "date_inscription": "2024-01-22"
+  },
+  {
+    "apprenant_id": "APP-019",
+    "nom": "Blessing Okafor",
+    "pays": "Nigeria",
+    "niveau": "Beginner",
+    "specialisation": "Cybersecurity",
+    "tags_interet": [
+      "Cybersecurity",
+      "Security",
+      "IT Support"
+    ],
+    "date_inscription": "2024-03-13"
+  },
+  {
+    "apprenant_id": "APP-020",
+    "nom": "Abdoulaye Sow",
+    "pays": "Sénégal",
+    "niveau": "Intermediate",
+    "specialisation": "Machine Learning",
+    "tags_interet": [
+      "Machine Learning",
+      "Python",
+      "Data Science",
+      "Mathematics"
+    ],
+    "date_inscription": "2024-03-13"
+  }
+]
